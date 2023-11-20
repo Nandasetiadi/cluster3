@@ -1,0 +1,28 @@
+/* CSS untuk card produk */
+.card {
+    display: inline-block;
+    width: 100%;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    margin-top: 10px;
+}
+
+.card-text {
+    font-size: 1rem;
+}
+
+.btn-primary {
+    margin-top: 10px;
+}
+
+/* Mengatur ukuran gambar */
+.card-body {
+    text-align: center;
+}
